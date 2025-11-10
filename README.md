@@ -139,22 +139,20 @@ TinyEditor.getContent('contenido');
 TinyEditor.setContent('contenido', '<p>Nuevo texto</p>');
 ```
 
-## Botones disponibles
-
-Botones Disponibles
-Botón	Función	Descripción
-N	Negrita	Texto en negritas
-K	Cursiva	Texto en cursiva
-S	Subrayado	Texto subrayado
-⬅	Alinear izquierda	Texto alineado a la izquierda
-⬌	Alinear centro	Texto centrado
-➡	Alinear derecha	Texto alineado a la derecha
-• Lista	Lista con viñetas	Lista no ordenada
-1. Lista	Lista numerada	Lista ordenada
-🔗	Insertar enlace	Agregar hipervínculo
-🖼️	Insertar imagen	Subir y insertar imagen
-🎨	Color de texto	Cambiar color del texto
-🧹	Limpiar formato	Remover formato del texto seleccionado
+## Botones Disponibles
+## Botón	Función	Descripción
+- **N** -	Negrita	Texto en negritas
+- **K** -	Cursiva	Texto en cursiva
+- **S** -	Subrayado	Texto subrayado
+- **⬅** -	Alinear izquierda	Texto alineado a la izquierda
+- **⬌** -	Alinear centro	Texto centrado
+- **➡**	Alinear derecha	Texto alineado a la derecha
+- **• Lista** -	Lista con viñetas	Lista no ordenada
+- **1. Lista** - Lista numerada	Lista ordenada
+- **🔗** - Insertar enlace	Agregar hipervínculo
+- **🖼️** -	Insertar imagen	Subir y insertar imagen
+- **🎨** - Color de texto	Cambiar color del texto
+- **🧹** - Limpiar formato	Remover formato del texto seleccionado
 
 ## License
 
