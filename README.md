@@ -140,7 +140,7 @@ TinyEditor.setContent('contenido', '<p>Nuevo texto</p>');
 ```
 
 ## Botones Disponibles
-## Botón	Función	Descripción
+- Botón	Función	Descripción
 - **N** -	Negrita	Texto en negritas
 - **K** -	Cursiva	Texto en cursiva
 - **S** -	Subrayado	Texto subrayado
