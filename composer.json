@@ -1,0 +1,30 @@
+{
+    "name": "francisco.garay/php-tiny-editor-word",
+    "description": "Editor WYSIWYG tipo Word para PHP - Sin dependencias externas",
+    "type": "library",
+    "keywords": [
+        "editor",
+        "wysiwyg",
+        "html",
+        "text-editor",
+        "php"
+    ],
+    "homepage": "https://github.com/GarayMolina/php-tiny-editor-word",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FranciscoGaray\\PhpTinyEditorWord\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francisco Javier Garay Molina",
+            "email": "garaymolina21@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
