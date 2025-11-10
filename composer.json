@@ -9,7 +9,7 @@
         "text-editor",
         "php"
     ],
-    "homepage": "https://github.com/GarayMolina/php-tiny-editor-word",
+    "homepage": "https://github.com/GarayMolina/php-tiny-interno",
     "license": "MIT",
     "autoload": {
         "psr-4": {

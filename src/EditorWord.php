@@ -1,6 +1,6 @@
 <?php
 
-namespace GarayMolina\TinyEditor;
+namespace FranciscoGaray\PhpTinyEditorWord;
 
 class EditorWord
 {
